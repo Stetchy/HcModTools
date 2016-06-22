@@ -3,6 +3,8 @@ HcModTools
 
 HcModTools - A plugin for AddonGaming servers that assist moderators in their daily tasks.
 
+Created mostly by hamgooof, partly by Stetchy, maintained by Stetchy.
+
 Features:
 
   - Hackergrunt add for moderators, and remove for admins. Allows players to be moved groups whilst offline
